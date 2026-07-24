@@ -1,4 +1,3 @@
-# IIMT Workshop — Module 4: AI/ML for Antimicrobial Peptide Engineering
 <p align="center">
   <img src="https://img.shields.io/badge/IIT-Roorkee-0A66C2?style=for-the-badge" />
   <img src="https://img.shields.io/badge/IIMT-Workshop-success?style=for-the-badge" />
