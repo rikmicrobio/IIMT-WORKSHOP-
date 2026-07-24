@@ -42,3 +42,16 @@ IIMT-WORKSHOP/
 ## License
 
 See [LICENSE](LICENSE).
+
+##Contributors
+Siddhant Poudyal
+Project Assistant
+Hazra Group, Indian Institute of Technology Roorkee
+
+Arghyadeep Das
+B.Tech Biotechnology
+Adamas University
+
+Dr. Rik Ganguly
+Postdoctoral Fellow
+Hazra Group, Indian Institute of Technology Roorkee
