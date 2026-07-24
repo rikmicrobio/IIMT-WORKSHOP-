@@ -49,6 +49,12 @@ IIMT-WORKSHOP/
 
 See [LICENSE](LICENSE).
 
+References
+Wang, H., Lei, Z., Zhang, X., Zhou, B., & Peng, J. (2016). Machine learning basics. In Deep Learning (pp. 98–164). Springer. https://doi.org/10.1007/978-981-10-5209-5_2
+Li, W., & Godzik, A. (2006). CD-HIT: A fast program for clustering and comparing large sets of protein or nucleotide sequences. Bioinformatics, 22(13), 1658–1659. https://doi.org/10.1093/bioinformatics/btl158
+Elnaggar, A., Heinzinger, M., Dallago, C., Rehawi, G., Wang, Y., Jones, L., Feher, T., Angerer, C., Steinegger, M., Bhowmik, D., & Rost, B. (2021). ProtTrans: Towards cracking the language of life’s code through self-supervised deep learning and high performance computing. IEEE Transactions on Pattern Analysis and Machine Intelligence (or cite the preprint if that is what you used).
+Rostlab. (n.d.). ProtBert: Pretrained BERT model for protein sequences. Hugging Face Model Hub. Retrieved July 25, 2026, from https://huggingface.co/Rostlab/prot_bert
+
 ## Contributors
 
 | Name | Role | Affiliation |
