@@ -1,4 +1,13 @@
 <p align="center">
+  <img src="./images/iit_roorkee_logo.png" alt="IIT Roorkee Logo" height="90">
+  &nbsp;&nbsp;&nbsp;
+  <img src="./images/iimt_logo.png" alt="IIMT Logo" height="90">
+</p>
+
+<h1 align="center">
+🧬 IIMT Workshop — Module 4
+</h1>
+<p align="center">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
   <img src="https://img.shields.io/badge/Google%20Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=white">
   <img src="https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black">
