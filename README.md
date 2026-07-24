@@ -3,6 +3,11 @@
 Student Training Programme, Department of Biotechnology, IIMT University, Meerut
 In collaboration with Structural and Protein Dynamics Lab (Hazra Group), IIT Roorkee
 
+<img width="1792" height="1278" alt="Image" src="https://github.com/user-attachments/assets/cb0d9421-ba27-4ab3-a297-d2c04ff9838b" />
+
+
+Overall pipeline for the workshop:
+
 <img width="1672" height="941" alt="Image" src="https://github.com/user-attachments/assets/ad52a0c3-8411-4dab-bae8-9d5e202f9115" />
 
 ## Repository Structure
