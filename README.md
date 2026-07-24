@@ -1,8 +1,22 @@
 <p align="center">
-  <img src="./images/iit_roorkee_logo.png" alt="IIT Roorkee Logo" height="90">
-  &nbsp;&nbsp;&nbsp;
-  <img src="./images/iimt_logo.png" alt="IIMT Logo" height="90">
+  <img src="https://github.com/user-attachments/assets/86c3ac87-4433-4b42-b718-d4ad4785869f"
+       alt="IIT Roorkee Logo"
+       height="100">
+
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
+  <img src="https://github.com/user-attachments/assets/900b54b7-2cc6-4ba6-a8ce-0949e3f6ea93"
+       alt="IIMT Logo"
+       height="100">
 </p>
+
+<h1 align="center">
+🧬 IIMT Workshop — Module 4
+</h1>
+
+<h2 align="center">
+AI/ML for Antimicrobial Peptide Engineering
+</h2>
 
 <h1 align="center">
 🧬 IIMT Workshop — Module 4
