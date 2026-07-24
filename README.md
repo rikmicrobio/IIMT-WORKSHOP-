@@ -1,18 +1,4 @@
-<p align="center">
 
-<img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white&style=for-the-badge">
-<img src="https://img.shields.io/badge/Google-Colab-F9AB00?logo=googlecolab&logoColor=white&style=for-the-badge">
-<img src="https://img.shields.io/badge/Hugging%20Face-FFD21E?logo=huggingface&logoColor=black&style=for-the-badge">
-
-<img src="https://img.shields.io/badge/Protein%20Language%20Models-6A1B9A?style=for-the-badge">
-<img src="https://img.shields.io/badge/ProtBERT-512DA8?style=for-the-badge">
-<img src="https://img.shields.io/badge/CD--HIT-009688?style=for-the-badge">
-
-<img src="https://img.shields.io/badge/BioPython-2E8B57?style=for-the-badge">
-<img src="https://img.shields.io/badge/scikit--learn-F7931E?logo=scikitlearn&logoColor=white&style=for-the-badge">
-<img src="https://img.shields.io/badge/Pandas-150458?logo=pandas&logoColor=white&style=for-the-badge">
-
-</p>
 
 Student Training Programme, Department of Biotechnology, IIMT University, Meerut
 In collaboration with Structural and Protein Dynamics Lab (Hazra Group), IIT Roorkee
