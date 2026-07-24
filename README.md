@@ -1,24 +1,18 @@
 <p align="center">
-  <img src="https://img.shields.io/badge/IIT-Roorkee-0A66C2?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/IIMT-Workshop-success?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/AI%2FML-Antimicrobial%20Peptides-purple?style=for-the-badge" />
+
+<img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white&style=for-the-badge">
+<img src="https://img.shields.io/badge/Google-Colab-F9AB00?logo=googlecolab&logoColor=white&style=for-the-badge">
+<img src="https://img.shields.io/badge/Hugging%20Face-FFD21E?logo=huggingface&logoColor=black&style=for-the-badge">
+
+<img src="https://img.shields.io/badge/Protein%20Language%20Models-6A1B9A?style=for-the-badge">
+<img src="https://img.shields.io/badge/ProtBERT-512DA8?style=for-the-badge">
+<img src="https://img.shields.io/badge/CD--HIT-009688?style=for-the-badge">
+
+<img src="https://img.shields.io/badge/BioPython-2E8B57?style=for-the-badge">
+<img src="https://img.shields.io/badge/scikit--learn-F7931E?logo=scikitlearn&logoColor=white&style=for-the-badge">
+<img src="https://img.shields.io/badge/Pandas-150458?logo=pandas&logoColor=white&style=for-the-badge">
+
 </p>
-
-<p align="center">
-  <img src="https://www.python.org/static/community_logos/python-logo.png" height="45">
-  &nbsp;&nbsp;
-  <img src="https://colab.research.google.com/img/colab_favicon_256px.png" height="45">
-  &nbsp;&nbsp;
-  <img src="https://huggingface.co/front/assets/huggingface_logo.svg" height="45">
-</p>
-
-<h1 align="center">
-🧬 IIMT Workshop — Module 4
-</h1>
-
-<h3 align="center">
-AI/ML for Antimicrobial Peptide Engineering
-</h3>
 
 Student Training Programme, Department of Biotechnology, IIMT University, Meerut
 In collaboration with Structural and Protein Dynamics Lab (Hazra Group), IIT Roorkee
