@@ -1,33 +1,21 @@
 <p align="center">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
+  <img src="https://img.shields.io/badge/Google%20Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=white">
+  <img src="https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black">
+</p>
 
-<!-- Programming & Notebook -->
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
-<img src="https://img.shields.io/badge/Google%20Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=white">
-<img src="https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black">
+<p align="center">
+  <img src="https://img.shields.io/badge/Protein%20Language%20Models-7B1FA2?style=for-the-badge">
+  <img src="https://img.shields.io/badge/ProtBERT-5E35B1?style=for-the-badge">
+  <img src="https://img.shields.io/badge/CD--HIT-00897B?style=for-the-badge">
+</p>
 
-<br><br>
-
-<!-- Protein Language Models -->
-<img src="https://img.shields.io/badge/Protein%20Language%20Model-7B1FA2?style=for-the-badge">
-<img src="https://img.shields.io/badge/ProtBERT-5E35B1?style=for-the-badge">
-<img src="https://img.shields.io/badge/Transformers-FFCA28?style=for-the-badge">
-
-<br><br>
-
-<!-- Bioinformatics -->
-<img src="https://img.shields.io/badge/CD--HIT-00897B?style=for-the-badge">
-<img src="https://img.shields.io/badge/BioPython-2E8B57?style=for-the-badge">
-<img src="https://img.shields.io/badge/AMP%20Engineering-43A047?style=for-the-badge">
-
-<br><br>
-
-<!-- Machine Learning -->
-<img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white">
-<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white">
-<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white">
-<img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white">
-<img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge">
-
+<p align="center">
+  <img src="https://img.shields.io/badge/BioPython-2E8B57?style=for-the-badge">
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white">
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white">
+  <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white">
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white">
 </p>
 
 Student Training Programme, Department of Biotechnology, IIMT University, Meerut
