@@ -1,4 +1,25 @@
 # IIMT Workshop — Module 4: AI/ML for Antimicrobial Peptide Engineering
+<p align="center">
+  <img src="https://img.shields.io/badge/IIT-Roorkee-0A66C2?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/IIMT-Workshop-success?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/AI%2FML-Antimicrobial%20Peptides-purple?style=for-the-badge" />
+</p>
+
+<p align="center">
+  <img src="https://www.python.org/static/community_logos/python-logo.png" height="45">
+  &nbsp;&nbsp;
+  <img src="https://colab.research.google.com/img/colab_favicon_256px.png" height="45">
+  &nbsp;&nbsp;
+  <img src="https://huggingface.co/front/assets/huggingface_logo.svg" height="45">
+</p>
+
+<h1 align="center">
+🧬 IIMT Workshop — Module 4
+</h1>
+
+<h3 align="center">
+AI/ML for Antimicrobial Peptide Engineering
+</h3>
 
 Student Training Programme, Department of Biotechnology, IIMT University, Meerut
 In collaboration with Structural and Protein Dynamics Lab (Hazra Group), IIT Roorkee
