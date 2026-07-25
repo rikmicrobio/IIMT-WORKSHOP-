@@ -116,7 +116,12 @@ The `references/` folder contains additional literature for further reading.
 | **Dr. Rik Ganguly** | Postdoctoral Fellow | Hazra Group, IIT Roorkee |
 
 ---
+## 📬 Contact
 
+- **Name:** Dr. Rik Ganguly
+- **Email:** rikgangulybioinfo@gmail.com
+- **Phone:** +91 63504 33960
+- **LinkedIn:** https://www.linkedin.com/in/rik-ganguly-70a7a197/
 # References
 
 1. Wang, H., Lei, Z., Zhang, X., Zhou, B., & Peng, J. (2016). *Machine Learning Basics*. In **Deep Learning** (pp. 98–164). Springer.
