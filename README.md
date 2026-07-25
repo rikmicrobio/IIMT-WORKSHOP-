@@ -107,14 +107,14 @@ The `references/` folder contains additional literature for further reading.
 
 ---
 
-# Contributors
+## 👥 Contributers:
 
 | Name | Position | Affiliation |
 |------|----------|-------------|
-| **Siddhant Poudyal** | Project Assistant | Hazra Group, IIT Roorkee |
+| **Prof. Saugata Hazra** | Professor & Principal Investigator | Hazra Group, Department of Biosciences and Bioengineering (BSBE), IIT Roorkee |
+| **Dr. Rik Ganguly** | Postdoctoral Fellow | Hazra Group, Department of Biosciences and Bioengineering (BSBE), IIT Roorkee |
+| **Siddhant Poudyal** | Project Assistant | Hazra Group, Department of Biosciences and Bioengineering (BSBE), IIT Roorkee |
 | **Arghyadeep Das** | B.Tech Biotechnology | Adamas University |
-| **Dr. Rik Ganguly** | Postdoctoral Fellow | Hazra Group, IIT Roorkee |
-
 ---
 ## 📬 Contact
 
