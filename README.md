@@ -72,11 +72,11 @@ IIMT-WORKSHOP/
 │   └── Practicle_session_1.ipynb
 │
 ├── Day-2/
-│   ├── Theory_day_2.ppt
+│   ├
 │   └── Practicle_session_2.ipynb
 │
 ├── Day-3/
-│   ├── Theory_day_3.ppt
+│   ├
 │   └── Practicle_session_3.ipynb
 │
 ├── references/
